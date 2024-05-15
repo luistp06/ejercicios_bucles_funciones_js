@@ -40,4 +40,4 @@ for (let i =0;i<list.length;i++) {
 clasificacion.push({metal: metal},{rock: rock},{pop: pop},{country: country},{grunge: grunge})
 console.log(clasificacion)
 }
-clasificatesongs(tracks)
+clasificatesongs(tracks) 
